@@ -1,5 +1,2 @@
-# 8 Ball Pool from Interpahse1
+# Hot Hoops from Interpahse1
 
-## STEPS TO SETUP INTERPASE1 GAMES FOR EDITING (AQUAPLANE EXAMPLE)
-
-Check back here for instructions and explanations
